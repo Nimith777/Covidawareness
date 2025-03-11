@@ -1,0 +1,9 @@
+{
+  "short_name": "COVID-19 Awareness",
+  "name": "COVID-19 Awareness",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
